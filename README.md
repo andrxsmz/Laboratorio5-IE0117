@@ -1,5 +1,5 @@
 ## Intalación de la biblioteca cJSON
-    Ejecutando el siguiente comando en la terminal instalará la biblioteca cjSON:
+Ejecutando el siguiente comando en la terminal instalará la biblioteca cjSON:
 ```bash
 sudo apt install libcjson-dev
 ```
